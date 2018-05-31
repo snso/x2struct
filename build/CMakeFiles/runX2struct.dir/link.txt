@@ -1,0 +1,1 @@
+g++    -O0 -Wall -g -ggdb -pie  -fPIE -std=gnu++11   CMakeFiles/runX2struct.dir/src/json2struct.cpp.o CMakeFiles/runX2struct.dir/lib/jsoncpp/src/json/json_reader.cpp.o CMakeFiles/runX2struct.dir/lib/jsoncpp/src/json/json_value.cpp.o CMakeFiles/runX2struct.dir/lib/jsoncpp/src/json/json_writer.cpp.o  -o runX2struct -rdynamic ../lib/libx2struct.a 

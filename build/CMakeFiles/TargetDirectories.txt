@@ -1,0 +1,4 @@
+/mnt/hgfs/linux/json2struct/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/linux/json2struct/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/linux/json2struct/build/CMakeFiles/runX2struct.dir
+/mnt/hgfs/linux/json2struct/build/CMakeFiles/x2struct.dir
